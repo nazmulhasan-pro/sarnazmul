@@ -1,0 +1,131 @@
+body{
+
+    padding: 0;
+    margin: 0;
+}
+h1{
+
+    padding: 0;
+    margin: 0;
+}
+
+.main-header{
+
+overflow: hidden;
+width: 100%;
+
+}
+
+.header-logo{
+
+background-color: green;
+width: 30%;
+height:60px;
+float: left;
+text-align: center;
+color: white;
+}
+
+
+
+.header-banner{
+
+background-color: greenyellow;
+width: 70%;
+height: 60px;
+float: right;
+text-align: center;
+color: red;
+
+}
+
+.header-box{
+
+background-color: tomato;
+height: 100px;
+text-align: center;
+
+}
+.content{
+overflow: hidden;
+
+}
+.left{
+
+width: 25%;
+height: 600px;
+background-color: yellow;
+text-align: center;
+float: left;
+
+
+}
+
+.center{
+
+    width: 50%;
+    height: 600px;
+    background-color: green ;
+    text-align: center;
+    float: left;
+
+}
+.top{
+height: 30%;
+background-color: brown;
+text-align: center;
+
+}
+
+.middle{
+
+height: 40%;
+background-color: chartreuse;
+text-align: center;
+
+}
+
+.middle-left{
+    width: 50%;
+    height: 100%;
+    background-color: darkmagenta;
+    text-align: center;
+    float: left;
+
+}
+
+.middle-right{
+    width: 50%;
+    height: 100%;
+    background-color: grey;
+    text-align: center;
+    float: right;
+
+}
+
+.bottom{
+
+    height: 30%;
+    background-color: cyan;
+    text-align: center;
+}
+
+.right{
+
+    width: 25%;
+    height: 600px;
+    background-color: black;
+    float: right;
+    text-align: center;
+    color: white;
+
+}
+
+/* footer start */
+footer{
+height: 100px;
+background-color: indigo;
+margin-top: 20px;
+text-align: center;
+color: white;
+}
